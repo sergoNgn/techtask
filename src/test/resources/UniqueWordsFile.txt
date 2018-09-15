@@ -1,0 +1,1 @@
+All words are unique
